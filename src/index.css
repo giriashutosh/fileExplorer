@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* const data = [
+  {
+  "name": "root",
+  "files": ["text1.js", "text2.js"],
+  "folder": [
+      {
+    "name": "root",
+    "files": ["text1.js", "text2.js"],
+    "folder": {
+      ...
+    }
+    ]
+},
+  }
+},
+  
+}
+] */
